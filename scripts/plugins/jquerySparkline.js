@@ -1451,5 +1451,4 @@
             return this.drawShape( [ [x, y], [x, y+height], [x+width, y+height], [x+width, y], [x, y] ], lineColor, fillColor);
         }
     });
-
 })(jQuery);
