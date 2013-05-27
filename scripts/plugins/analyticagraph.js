@@ -72,7 +72,6 @@
 				element: baliseSlider
 			});
 
-		}
 			graph.render();
 
 		});
