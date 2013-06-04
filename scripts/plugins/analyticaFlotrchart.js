@@ -1,3 +1,17 @@
+/*
+*Cas des pie charts un peu particuliet , revoir l'imple pour ça
+*
+*
+*
+*
+*
+*
+*
+*
+*/
+
+
+
 (function($) {
 	$.fn.drawFlotrChart = function(parameters) {
 		var defaults = {
